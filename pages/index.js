@@ -25,7 +25,7 @@ export default function Home() {
           <img src="https://nyimpen.vercel.app/component/logoku.png" alt="Profile Picture" className="profile-pic" />
           <h1 className="nama">Michael</h1>
           <p className="lokasi">
-            <i className="fas fa-globe-asia"></i> Lampung,Pringsewu
+            <i className="fas fa-globe-asia"></i> Lampung
           </p>
           <p className="bio">”destroyer.”</p>
         </header>
@@ -39,7 +39,7 @@ export default function Home() {
               </div>
             )}
             <iframe
-              src="https://open.spotify.com/playlist/4jjsjzdEOHavg1ZXkOBFkF"
+              src="https://open.spotify.com/playlist/5E94i8pdlKExmg1DoflYT1"
               frameBorder="0"
               allowTransparency="true"
               allow="encrypted-media"
