@@ -22,7 +22,7 @@ export default function Home() {
       </Head>
       <div className="container">
         <header>
-          <img src="https://tmpfiles.org/dl/13447050/1727416712738.jpg" alt="Profile Picture" className="profile-pic" />
+          <img src="https://deposit.pictures/p/3c38a0dfbfb14e14b16e1855c3f4d134" alt="Profile Picture" className="profile-pic" />
           <h1 className="nama">Michael</h1>
           <p className="lokasi">
             <i className="fas fa-globe-asia"></i> Lampung
