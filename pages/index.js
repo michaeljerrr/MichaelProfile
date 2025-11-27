@@ -27,7 +27,7 @@ export default function Home() {
           <p className="lokasi">
             <i className="fas fa-globe-asia"></i> Lampung
           </p>
-          <p className="bio">”destroyer.”</p>
+          <p className="bio">”I want luck.”</p>
         </header>
 
         <section className="spotify-section">
@@ -52,7 +52,7 @@ export default function Home() {
           <a href="https://github.com/Michael" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-github"></i>
           </a>
-          <a href="https://wa.me/6283169566533?text=Michael+Ganteng" target="_blank" className="social-link" rel="noopener noreferrer">
+          <a href="https://wa.me/6282225000839?text=Michael+Ganteng" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-whatsapp"></i>
           </a>
           <a href="https://instagram.com/zaxius262" target="_blank" className="social-link" rel="noopener noreferrer">
