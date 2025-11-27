@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Michael | Spotify Music</title>
+        <title>Michael Owen | Spotify Music</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
         <link rel="stylesheet" href="https://nyimpen.vercel.app/component/spotfy.css" />
@@ -23,9 +23,9 @@ export default function Home() {
       <div className="container">
         <header>
           <img src="https://files.catbox.moe/ee5sre.jpg" alt="Profile Picture" className="profile-pic" />
-          <h1 className="nama">Michael</h1>
+          <h1 className="nama">Michael Owen</h1>
           <p className="lokasi">
-            <i className="fas fa-globe-asia"></i> Lampung
+            <i className="fas fa-globe-asia"></i> Indonesia
           </p>
           <p className="bio">”I want luck.”</p>
         </header>
