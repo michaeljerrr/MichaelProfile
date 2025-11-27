@@ -22,7 +22,7 @@ export default function Home() {
       </Head>
       <div className="container">
         <header>
-          <img src="https://files.catbox.moe/axok5w.jpg" alt="Profile Picture" className="profile-pic" />
+          <img src="https://files.catbox.moe/ee5sre.jpg" alt="Profile Picture" className="profile-pic" />
           <h1 className="nama">Michael</h1>
           <p className="lokasi">
             <i className="fas fa-globe-asia"></i> Lampung
